@@ -1,5 +1,7 @@
 
 ## 🌐 Socials:
+
+https://codedbykris-portfolio.netlify.app/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kris-57b4742b5/) 
 
 # 💻 Tech Stack:
